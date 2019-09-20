@@ -1,3 +1,7 @@
+h3 {
+  color: black;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -9,18 +13,23 @@ h3 {
 
 .box1 {
   background-color: beige;
-  height: 300px;
   width: 300px;
+  height: 200px;
+  display: flex;
+  flex-direction: column
 }
 
 .box2 {
   background-color: aquamarine;
-  height: 100px;
   width: 100px;
+  height:300px;
+  display: flex;
+
 }
 
 .box3 {
   background-color: thistle;
   height: 200px;
-  width: 200px;
+  width: 100px; 
+  display: flex;
 }
