@@ -1,3 +1,33 @@
 h3 {
   color: black;
 }
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  letter-spacing: 3px;
+}
+
+.box1 {
+  background-color: beige;
+  height: 200px;
+  display: flex;
+  flex-direction: column
+}
+
+.box2 {
+  background-color: aquamarine;
+  height:300px;
+  display: flex;
+
+}
+
+.box3 {
+  background-color: thistle;
+  width: 100px; 
+  display: flex;
+  
+}
