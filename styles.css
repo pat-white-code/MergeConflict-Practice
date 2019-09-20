@@ -9,12 +9,18 @@ h3 {
 
 .box1 {
   background-color: beige;
+  height: 300px;
+  width: 300px;
 }
 
 .box2 {
   background-color: aquamarine;
+  height: 100px;
+  width: 100px;
 }
 
 .box3 {
   background-color: thistle;
+  height: 200px;
+  width: 200px;
 }
